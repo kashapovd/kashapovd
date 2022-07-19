@@ -12,7 +12,7 @@ fighting against myself every day<br>savvy?
 </td>
 <td>
       
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashapovd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashapovd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
  
 </td>
 </tr>
